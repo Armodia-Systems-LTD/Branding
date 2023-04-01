@@ -15,7 +15,7 @@ Please note that our logos are the property of Armodia Systems LTD and should no
 This repository contains multiple versions of our official logo, including:
 
 - Armodia Systems LTD Logo in Full Color
-- Armodia Systems LTD Logo in Black and White
+- Armodia Systems LTD Logo in Black and White Text
 - Armodia Systems LTD Logo in Transparent Background
 - Armodia Systems LTD Icon
 
