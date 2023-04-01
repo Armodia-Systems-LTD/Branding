@@ -8,7 +8,7 @@ Armodia Systems LTD is a Roblox company that specializes in developing high-qual
 
 ## Logo Usage Guidelines
 
-Please note that our logos are the property of Armodia Systems LTD and should not be tampered with in any way. We do not permit any changes, distortions, recoloring, or reconfigurations of our logos. Use these logos only when the brand is clearly visible or has been well established elsewhere on the page or in the design. If you are unsure about using our logos, please use another option.
+Please note that our logos are the property of Armodia Systems LTD and should not be tampered with in any way. We do not permit any changes, distortions, recolouring, or reconfigurations of our logos. Use these logos only when the brand is clearly visible or has been well established elsewhere on the page or in the design. If you are unsure about using our logos, please use another option.
 
 ## Logo Versions
 
